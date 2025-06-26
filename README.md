@@ -1,5 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]
 
+# WhammyFlex Miner
+
+WhammyFlex Miner is a fun experimental CPU miner designed to simulate mining of the fictional Whammy Flex (WFX) memecoin. This is a back-end mock miner that works with Prometheus + Grafana for stat monitoring.
+
+🚀 Features
+🔧 Written in Rust with BLAKE3 hashing
+📊 Real-time stats via Prometheus metrics exporter
+🧠 Works great on Raspberry Pi and low-power systems
+🎛️ Grafana integration for dashboards
+🛠️ Shell scripts for safe start/stop
 
 # WhammyFlex Miner
 
