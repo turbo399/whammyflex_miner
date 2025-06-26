@@ -1,0 +1,3 @@
+wfx_valid_shares_total 1
+wfx_minted_total 10
+wfx_hash_attempts_total 143650
