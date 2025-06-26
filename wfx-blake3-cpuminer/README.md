@@ -66,13 +66,7 @@ MIT — free to use, remix, fork, and flex 🌀
 
 Also create a `.gitignore` file with:
 
-```txt
-/target
-*.log
-__pycache__/
-*.pyc
-.env
-.DS_Store
+see ".gitignore" file
 
 
 
