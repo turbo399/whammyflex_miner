@@ -31,6 +31,17 @@ git clone https://github.com/turbo399/wfx-blake3-cpuminer.git
 cd wfx-blake3-cpuminer
 chmod +x *.sh
 
+Build the Rust miner:
+
+cargo build --release
+
+Run the miner manually:
+
+./target/release/whammyflex-miner
+Or start metrics exporter to feed Prometheus:
+
+python3 metrics_exporter.py
+
 🧪 Run Miner + Metrics Exporter
 ./safe_start_exporter.sh
 
