@@ -29,3 +29,7 @@ Please navigate into that directory for full setup guides and run instructions.
 - On a valid hash (e.g., starts with `00000`), logs the share  
 - `metrics_exporter.py` scrapes this log and exposes Prom metrics  
 - Prometheus scrapes `/metrics`, Grafana visualizes it
+
+-Grafana Dashboard Sreen Shot
+![image](https://github.com/user-attachments/assets/6fcc586e-09ed-4e97-8714-bf8612c40c44)
+
