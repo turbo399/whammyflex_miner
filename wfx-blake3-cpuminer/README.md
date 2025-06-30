@@ -79,5 +79,21 @@ Also create a `.gitignore` file with:
 
 see ".gitignore" file
 
+---
+
+## 🔗 Related Project: WhammyFlex Wallet
+
+Use [WhammyFlex APK Wallet](https://github.com/turbo399/turbo399-wfx_custom_wallet_apk) to store your mined WFX tokens securely on your Android device.
+
+---
+
+## 🛠️ How Miner & Wallet Work Together
+
+1. Run the WhammyFlex Miner on your PC, Raspberry Pi, or server.
+2. In your miner configuration, set the payout address to your WhammyFlex Wallet address (shown in the app).
+3. Monitor mining stats via Prometheus + Grafana dashboards.
+4. Use your WhammyFlex Wallet to store, send, or spend your WFX!
+
+
 
 
