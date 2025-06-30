@@ -1,4 +1,5 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 # WhammyFlex Miner
 
